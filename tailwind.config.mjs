@@ -26,9 +26,9 @@ export default {
   		colors: {
   			primary: "#1c1c22",
 			accent: {
-				DEFAULT: "#00ff99",
+				DEFAULT: "#088F8F",
 				hover: "@00e187",
-			},
+			}
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
